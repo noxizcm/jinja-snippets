@@ -1,12 +1,12 @@
 {
     "name": "jinja-snippets",
     "displayName": "Jinja Snippets",
-    "description": "Jinja Snippets is a fast, expressive, and attractive way to build Jinja / HTML templates",
+    "description": "Jinja Snippets is a fast, and attractive way to build Jinja / HTML templates in isual Studio Code",
     "version": "1.0.0",
 	"icon": "logo.png",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/noxizdev/jinja-snippets"
 	},
     "publisher": "Noxiz",
     "author": {

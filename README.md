@@ -18,7 +18,9 @@ To start using the snippets simply type **j.** *snippet_name*.
 
 
 ## Features
-
+>All snippets support **Tabstops**  
+>Some snippets providing **Placeholders**  
+>some snippets like `j.imp` support **Choice** 
 ### Basics
 |Snippets|Output|Desciption|
 |--------|------|----------|
