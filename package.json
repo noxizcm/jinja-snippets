@@ -6,9 +6,9 @@
 	"icon": "logo.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/noxizdev/jinja-snippets"
+		"url": "https://github.com/noxizcode/jinja-snippets"
 	},
-    "publisher": "Noxiz",
+    "publisher": "NoxizCode",
     "author": {
 		"name": "EKEN Arnold"
     },
@@ -22,12 +22,11 @@
 		"jinja",
 		"jinja2",
 		"jinja3",
-		"snippet",
+        "templates",
+        "template-engine",
 		"snippets",
-		"flask",
-		"python",
-        "template",
-        "templates"
+        "python",
+		"flask"
 	],
     "contributes": {
         "snippets": [
