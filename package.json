@@ -1,0 +1,44 @@
+{
+    "name": "jinja-snippets",
+    "displayName": "Jinja Snippets",
+    "description": "Jinja Snippets is a fast, expressive, and attractive way to build Jinja / HTML templates",
+    "version": "1.0.0",
+	"icon": "logo.png",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+    "publisher": "Noxiz",
+    "author": {
+		"name": "EKEN Arnold"
+    },
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+		"jinja",
+		"jinja2",
+		"jinja3",
+		"snippet",
+		"snippets",
+		"flask",
+		"python",
+        "template",
+        "templates"
+	],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "jinja",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
